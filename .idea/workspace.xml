@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf5ecfdb-9a0e-4906-9cb8-863f9a5e824f" name="Changes" comment="lab 1">
-      <change afterPath="$PROJECT_DIR$/lab1/Lab 1 IVOM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Lab2IVOM_rezolvare.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Lab2_IVom_ImInteg.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/balloons_noisy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/lab2ivom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/noise_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/notite.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pisi/PycharmProjects/IVOM/lab1",
+    "last_opened_file_path": "C:/Users/Pisi/PycharmProjects/IVOM/lab2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,11 +71,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pisi\PycharmProjects\IVOM\lab2" />
       <recent name="C:\Users\Pisi\PycharmProjects\IVOM\lab1" />
       <recent name="C:\Users\Pisi\PycharmProjects\PAIC\IVOM" />
       <recent name="C:\Users\Pisi\PycharmProjects\PAIC" />
       <recent name="C:\Users\Pisi\PycharmProjects\PAIC\lab11" />
-      <recent name="C:\Users\Pisi\PycharmProjects\PAIC\lab12" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Pisi\PycharmProjects\PAIC" />
@@ -318,7 +323,8 @@
       <workItem from="1737388253385" duration="1396000" />
       <workItem from="1737389992189" duration="17254000" />
       <workItem from="1741025708716" duration="659000" />
-      <workItem from="1741026680431" duration="2667000" />
+      <workItem from="1741026680431" duration="3267000" />
+      <workItem from="1742839230016" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="lab 1">
       <option name="closed" value="true" />
@@ -384,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741028470367</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab 1">
+      <option name="closed" value="true" />
+      <created>1741034836553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741034836553</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
